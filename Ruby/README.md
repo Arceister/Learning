@@ -9,7 +9,7 @@ Because i participated on GenerasiGIGIH Mentorship by GoTo and it uses Ruby. I g
 ## Personal Roadmap 
 ### *Some are inspired from GenerasiGIGIH Curriculum and [roadmap.sh](https://roadmap.sh/) Backend Learning Path
 
-## [Basic Ruby](./Basics/'Basic%20Data%20Types')
+## [Basic Ruby](./Basics/Basic%20Data%20Types)
 - [Basic Data Types](./Basics)
 - Variables
 - Input and Output
