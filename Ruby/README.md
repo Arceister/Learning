@@ -1,13 +1,16 @@
 # Ruby Programming Language
 
+## BEFORE YOU BEGIN:
+#### Make sure you follow Ruby [conventions](https://github.com/rubocop/ruby-style-guide) <br/><br/>
+
 ## Why learn Ruby?
 Because i participated on GenerasiGIGIH Mentorship by GoTo and it uses Ruby. I got no other reasons to learn Ruby other than that, lol.
 
 ## Personal Roadmap 
 ### *Some are inspired from GenerasiGIGIH Curriculum and [roadmap.sh](https://roadmap.sh/) Backend Learning Path
 
-## Basic Ruby
-- Basic Data Types
+## [Basic Ruby](./Basics/'Basic%20Data%20Types')
+- [Basic Data Types](./Basics)
 - Variables
 - Input and Output
 - Conditional Logic
